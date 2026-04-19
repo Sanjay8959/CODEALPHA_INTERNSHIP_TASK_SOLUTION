@@ -10,4 +10,4 @@ All the tasks included here demonstrate my learning and implementation abilities
 
 ## 🛠️ Tech Stack
 - Programming Language: (c++)
-- Tools:GitHub, VS Code
+- Tools: GitHub, VS Code
